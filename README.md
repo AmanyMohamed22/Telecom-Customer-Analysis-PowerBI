@@ -2,7 +2,7 @@
 
 An end-to-end Data Analytics project examining customer churn patterns, revenue exposure, and service behavior for a telecom provider.
 
-![Telecom Dashboard](images/telecom_dashboard.png)
+![Telecom Dashboard](https://github.com/AmanyMohamed22/Telecom-Customer-Analysis-PowerBI/blob/main/Telecom.png)
 
 ---
 
